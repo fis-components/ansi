@@ -1,0 +1,10 @@
+{
+    "name": "ansi",
+    "description": "Advanced ANSI formatting tool for Node.js",
+    "repos": "https://github.com/TooTallNate/ansi.js.git",
+    "main": "lib/ansi.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.3.0"
+}
